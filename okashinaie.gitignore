@@ -1,0 +1,9 @@
+# VS Codeの拡張機能や設定ファイルを除外
+.vscode/extensions/
+
+# OSの一時ファイルや隠しファイルを除外
+.DS_Store
+Thumbs.db
+
+# その他の不要なファイルやフォルダ
+node_modules/
