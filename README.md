@@ -49,6 +49,7 @@ HTML5/CSS3/JavaScript/Phaser3の学習
 👉 [お菓子な迷路を遊ぶ](https://fancy-praline-1a7076.netlify.app/)
 
 📸 スクリーンショット
+
 <img width="806" height="600" alt="image" src="https://github.com/user-attachments/assets/38ca8d57-aae9-454c-a53b-f496f35848a0" />
 
 📌 制作意図・工夫
